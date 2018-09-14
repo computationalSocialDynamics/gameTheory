@@ -1,6 +1,6 @@
-from src.NodesProvider import getNodes
-from src.NodesProvider import getNumberOfNodes
-from src.WriteToFile import writeToFile
+from NodesProvider import getNodes
+from NodesProvider import getNumberOfNodes
+from WriteToFile import writeToFile
 from random import randint
 from random import random
 import time

@@ -1,4 +1,4 @@
-from src.Node import Node
+from Node import Node
 from random import random
 from pprint import pprint
 
